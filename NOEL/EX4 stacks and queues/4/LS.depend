@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1657114929 source:c:\users\m e t r o\onedrive\desktop\ds\linked lists\ls\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1657285327 source:c:\users\m e t r o\onedrive\desktop\ds\3 linked lists\ls\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658009284 source:c:\users\m e t r o\onedrive\desktop\ds\neso\4 stacks\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658642091 source:c:\users\m e t r o\onedrive\desktop\ds\neso\4 stacks\4 check palindrom\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658713548 source:c:\users\m e t r o\onedrive\desktop\ds\neso\4 stacks\5 check balanced brackets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
